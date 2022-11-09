@@ -15,11 +15,20 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
     <h2>ashar hashmi</h2>
+=======
+>>>>>>> backend
 <<<<<<< Updated upstream
     <h1>this is  a backend branch
             </h1>
 =======
+<<<<<<< HEAD
+=======
+    <h2>ashar hashmi</h2>
+    <h1>this is  a backend branch
+            </h1>
+>>>>>>> backend
     <h2>Shoaib hashmi</h2>
 >>>>>>> Stashed changes
 </body>
