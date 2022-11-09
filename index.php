@@ -1,3 +1,5 @@
+<!-- This is Our Backend Code -->
+
 <?php
     echo 'ashar ui' 
 ?>
@@ -14,5 +16,11 @@
 </head>
 <body>
     <h2>ashar hashmi</h2>
+<<<<<<< Updated upstream
+    <h1>this is  a backend branch
+            </h1>
+=======
+    <h2>Shoaib hashmi</h2>
+>>>>>>> Stashed changes
 </body>
 </html>
